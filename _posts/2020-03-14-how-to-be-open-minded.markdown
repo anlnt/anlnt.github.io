@@ -12,7 +12,7 @@ In a talk, [Why you think you're right, even when you're wrong](https://www.ted.
 
 > Some pieces of information feel like our allies - we want them to win; we want to defend them. And other pieces of information are the enemy, and we want to shoot them down. That's why I call motivated reasoning "soldier mindset."
 
-Those adapting to scout mindset feel interesting when they meet something that contradicts what they have believed in. Even if they find out that they have been wrong, they don't feel bad or guilty at all. To them it does not matter which side is right or wrong. What they do want is to find the truth.
+By contrast to soldier mindset, those adapting to scout mindset feel interesting when they meet something that contradicts what they have believed in. Even if they find out that they have been wrong, they don't feel bad or guilty at all. To them it does not matter which side is right or wrong. What they do want is to find the truth.
 
 Finally, how do we apply these lessons to software development? The following is what we can do:
 - In a code review or team discussion, if someone has an idea that is different from ours, listen to them. By "listen", I mean we truly understand what they mean. While listening, assume that they may be right and their ideas may be better than ours. This is the key to openness. We never accept a new idea if we don't consider it valid.
