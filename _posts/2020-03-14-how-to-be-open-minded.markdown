@@ -17,7 +17,7 @@ By contrast to soldier mindset, those adapting to scout mindset feel interesting
 Finally, how do we apply these lessons to software development? The following is what we can do:
 - In a code review or team discussion, if someone has an idea that is different from ours, listen to them. By "listen", I mean we truly understand what they mean. While listening, assume that they may be right and their ideas may be better than ours. This is the key to openness. We never accept a new idea if we don't consider it valid.
 - Accept mistakes. Don't feel guilty or stupid when we have made a bad decision.
-- Do not consider ourselves weak if we change our mind.
+- Don't consider ourselves weak if we change our mind.
 
 # References
 
