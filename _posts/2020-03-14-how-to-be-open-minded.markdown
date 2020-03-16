@@ -16,7 +16,7 @@ By contrast to soldier mindset, those adapting to scout mindset feel interesting
 
 Finally, how do we apply these lessons to software development? If you agree with me that scout mindset is better, the following is what I suggest you to do:
 - In a code review or team discussion, if someone has an idea that is different from yours, listen to them. By "listen", I mean you truly understand what they mean. While listening, assume that they may be right and their ideas may be better than yours. This is the key to openness. We never accept a new idea if we don't consider it valid.
-- Accept mistakes. Don't feel guilty or stupid when we have made a bad decision.
+- Accept mistakes. Don't feel guilty or stupid when you have made a bad decision.
 - Don't consider yourself weak if you change your mind.
 
 # References
