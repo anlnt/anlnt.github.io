@@ -14,10 +14,10 @@ In a talk, [Why you think you're right, even when you're wrong](https://www.ted.
 
 By contrast to soldier mindset, those adapting to scout mindset feel interesting when they meet something that contradicts what they have believed in. Even if they find out that they have been wrong, they don't feel bad or guilty at all. To them it does not matter which side is right or wrong. What they do want is to find the truth.
 
-Finally, how do we apply these lessons to software development? The following is what we can do:
-- In a code review or team discussion, if someone has an idea that is different from ours, listen to them. By "listen", I mean we truly understand what they mean. While listening, assume that they may be right and their ideas may be better than ours. This is the key to openness. We never accept a new idea if we don't consider it valid.
+Finally, how do we apply these lessons to software development? If you agree with me that scout mindset is better, the following is what I suggest you to do:
+- In a code review or team discussion, if someone has an idea that is different from yours, listen to them. By "listen", I mean you truly understand what they mean. While listening, assume that they may be right and their ideas may be better than yours. This is the key to openness. We never accept a new idea if we don't consider it valid.
 - Accept mistakes. Don't feel guilty or stupid when we have made a bad decision.
-- Don't consider ourselves weak if we change our mind.
+- Don't consider yourself weak if you change your mind.
 
 # References
 
