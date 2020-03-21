@@ -10,7 +10,7 @@ If you are an experienced software engineer who has over two years working in a 
 
 More examples of patient software engineers:
 - They are able to reveal unspoken requirements from stakeholders, tirelessly asking questions to clarify requirements. They explore the current system as a user and thoroughly examine the codebase to figure out what needs to be built. They practice [second-order thinking](https://medium.com/@noahmp/second-order-thinking-3fc2a224b131) to expose the implications due to the new requirements.
-- They are a bug hunter in their projects. They fastidiously wander around a system to look for a bug. When they find one, they evaluate how severe it is. They may find bugs that have been existing for a long time but no one notices.
+- They are a bug hunter in their projects. They fastidiously wander around a system to look for a bug. When they find one, they run a thorough evaluation of how severe it is. They may find bugs that have been existing for a long time but no one notices.
 
 Finally, how do we learn patience? Above all, patience means that we keep calm and quiet to contemplate a problem. The prerequisite of learning patience is to accept that everything can wait. As a manager or a leader, to help your members learn patience, do not put them in a time limit. People tend to skip important details when they are in high pressure.
 
