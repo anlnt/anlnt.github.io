@@ -14,7 +14,7 @@ Most people are confused about an estimate and a commitment. Estimate is a **pre
 
 A commitment is something we must achieve. For instance, a new security policy has just been enacted by the government, taking effect by the end of this month, which your product has not been in compliance with at the time being. The business asks you to commit that you will deliver a change so that your product follows the new policy. If you estimate that this is achievable and you commit to get it done by the end of this month, you have to get it done by that day. If you miss a commitment, your company will be  damaged and so are your reputation and paycheck. If you are not comfortable delivering the change by the deadline, you are horor to decline to make a commitment.
 
-One problem is that software engineers think that they have to meet the estimate, putting themselves in high pressure. Another problem is that someone takes the estimates from engineering teams to make commitments to other people, bringing high pressure to the engineering teams. Consequently, software engineers work long hours to finish their job, burning themselves out and leaving a lot of technical debt and bugs.
+One problem is that software engineers think that they have to meet the estimate, putting themselves in high pressure. Another problem is that someone takes the estimates from engineering teams to make commitments to other people, bringing high pressure to the engineering teams. Consequently, the software engineers work long hours to finish their job, burning themselves out and leaving a lot of technical debt and bugs.
 
 ## Estimate vs. guesstimate
 
