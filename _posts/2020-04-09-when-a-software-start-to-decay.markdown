@@ -14,7 +14,7 @@ Scientists in the field of crime and urban decay have found that the fastest way
 
 So how do we deal with broken windows? We all want our building clean and intact so any broken windows or damages need fixing as soon as they are discovered. However, in real software projects, we can’t. We are always under pressure to deliver more features as quickly as possible. In my opinion, the following is what we can do:
 - Do not add more broken windows although it’s hard to resist the temptation to add junk code or hack the current system for a quick delivery.
-- Keep improving existing system designs along the way you develop features. For example, you may change the current design so that it fits the new features before implementing. Don’t build things upon a bad design to avoid tech debts. There is always an interest rate you have to pay on the debt. Compounding interest kicks in if you don’t get out of the debt soon. Be careful or you go bankrupt.
+- Keep improving existing system designs along the way developing features. For example, you may change the current design so that it fits the new features before implementing. Don’t build things upon a bad design to avoid tech debts. There is always an interest rate you have to pay on the debt. Compounding interest kicks in if you don’t get out of the debt soon. Be careful or you go bankrupt.
 - If you have to choose “do it quick” over “do it right”, commit yourself to fix it as soon as it’s delivered.
 - Learn [Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring) which comprises principles and methods to improve existing system designs.
 
