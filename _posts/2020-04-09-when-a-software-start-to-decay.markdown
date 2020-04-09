@@ -21,5 +21,6 @@ So how do we deal with broken windows? We all want our building clean and intact
 # References
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-special-David-Thomas/dp/0135957052/)
+- [Refactoring: Ruby Edition](https://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional/dp/0321984137)
 - [Refactoring to Patterns](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
 - [97 Things Every Programmer Should Know](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484), Act with Prudence
