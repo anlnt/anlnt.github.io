@@ -34,7 +34,7 @@ On the other hand, there is a school of programming where the developer decompos
 
 <img src="/assets/images/house_of_cards_20200418.jpg" alt="house_of_cards" width="300">
 
-No matter which between top-down and bottom-up approach chosen to develop a program, a developer who strongly believes in unit testing will not move on to the next level until all units in the current level have been tested. Thanks to this discipline, they are able to deliver bug-free features in a sustainable space.
+No matter which between top-down and bottom-up approach chosen to develop a program, a developer who strongly believes in unit testing will not move on to the next level until all units in the current level have been tested. Thanks to this discipline, they are able to deliver bug-free features in a sustainable pace.
 
 ## Regression testing
 Have you ever seen that a developer has just delivered something and someone tells him that he has broken another module which seems unrelated to the work he has done? It happens a lot in the field of software development and that is one of the reasons why building software is hard, risky, and time-consuming. Ideally, when you change a unit, in addition to test the unit itself, you have to test all higher level units that are relying on the one you are changing. You may say that if you spend too much time testing, you will miss certain schedules and deadlines. Good point! Automate your unit tests.
