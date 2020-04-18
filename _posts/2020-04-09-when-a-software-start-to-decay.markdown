@@ -2,7 +2,7 @@
 layout: post
 title:  "When a software starts to decay"
 date:   2020-04-09 15:49:46 +0700
-tag: [Software Engineering, Software Craftsmanship]
+tag: [Software Craftsmanship]
 ---
 Have you ever found yourself in a situation where you couldn’t add additional logic to a module for implementing a new feature in a software project? Specifically, there is an API that is extremely slow. The new feature requires you to add more database queries but you know that it only makes the performance issue worse. You start to dig deeper into the API, investigating why it is slow. You then know the root cause but unfortunately you cannot make any changes to improve the performance because the current system design makes the module too hard to modify. Ultimately, you have to rewrite the entire API so that it is easier to change e.g. optimizing database queries or adding new logic. What if we keep adding new logic without improving the API design?
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Technical books I have read"
 date:   2020-03-07 15:18:46 +0700
-tag: [Books, Software Engineering]
+tag: [Books]
 ---
 As a software engineer, we have to keep learning to survive the day-by-day change of technologies. Different people have different ways to make themselves up to date. Some people enjoy technical conferences. Others subscribe blogs or social sharing of the top leaders in our industry. I prefer reading books. The following are types of books I have read.
 <br />
