@@ -4,7 +4,7 @@ title:  "Unit test: back to basics"
 date:   2020-04-18 11:35:46 +0700
 tag: [Software Testing]
 ---
-## What is Unit Testing?
+## What is unit testing?
 When we first learned programming, we may have practiced writing a method that calculates the sum of two numbers. The function written in Ruby programming language would be as follows:
 
 ```ruby
