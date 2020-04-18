@@ -25,7 +25,7 @@ Then we may have used a tool, [IRB](https://github.com/ruby/irb), to interactive
  => 15
 ```
 
-I call the above testing a unit test. To be more accurate, it is a manual unit test. A unit test is performed to prove that a unit, probably a method or a class, does what the developer thinks it should do. By “manual”, I mean we have to look at the output from the shell to decide if it is passed the test. There is a better way to perform a unit test, automated unit testing. We are going to talk about it later.
+I call the above testing a unit test. To be more accurate, it is a manual unit test. A unit test is performed to prove that a unit, probably a method or a class, does what the developer thinks it should do. By “manual”, I mean we have to look at the output from the shell to decide if it passes the test. There is a better way to perform a unit test, automated unit testing. We are going to talk about it later.
 
 ## Coding with confidence
 Programming is all about writing code to solve a problem. Someone may start with a big problem, developing class to class, method to method until they feel that their job has been done. They start a verification of all this code by using the top-level program which may be an end-user feature. They are usually surprised that the feature does not work the way they are expecting but have no idea what is going on. They spend a lot of time using a debugger, going back and forth to figure out where the bug is. They are sometimes reported a bug right after they deliver something and it turns out that it is just a syntax error.
