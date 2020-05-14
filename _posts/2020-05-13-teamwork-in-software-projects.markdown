@@ -17,7 +17,7 @@ A leader is someone who is in charge of the accomplishment of the mission. Every
 - Someone asks you if they are doing the right thing.
 - Your project is at risk missing a hard deadline due to an unexpected issue in the last minute. You make a call to save the project and everyone follows you without hesitation.
 - You always follow through your commitments. People rely on you. If you said you were going to it, they know that you are going to do it.
-- You overcome any obstacles that prevent your team from accomplishing the mission by yourself or you ask for help if you are not able to solve the issues.
+- You overcome any obstacles that prevent your team from accomplishing the mission. You do that by yourself or you constantly search for help if you are not able to solve the issues.
 
 ## Ownership
 
