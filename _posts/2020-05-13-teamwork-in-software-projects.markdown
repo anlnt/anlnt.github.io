@@ -9,7 +9,7 @@ Software engineers work as a team. When one engineer cannot afford the delivery 
 
 ## Mission
 
-People working together creates a group. A group is not really a team if they don’t share the same missions. In software engineering, a mission usually comes from a customer pain point. What makes users annoyed. What costs users time, effort, and money. How much value we bring to users if we solve their pain points. It’s why we write code for. Requirements are just secondary. In effective teams, we just need to tell them the mission. They then do their own ways to complete the mission. They may find requirements that product owners haven’t thought about. They work hard to overcome obstacles on their way or even work extra hours to accomplish the mission.
+People working together creates a group. A group is not really a team if they don’t share the same missions. In software engineering, a mission usually comes from a customer pain point. What makes users annoyed. What costs users time, effort, and money. How much value we bring to users if we solve their pain points. It’s what we write code for. Requirements are just secondary. In effective teams, we just need to tell them the mission. They then do their own ways to complete the mission. They may find requirements that product owners haven’t thought about. They work hard to overcome obstacles on their way or even work extra hours to accomplish the mission.
 
 ## Leadership
 
