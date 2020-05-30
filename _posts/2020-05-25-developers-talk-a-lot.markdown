@@ -5,7 +5,7 @@ date:   2020-05-25 17:52:24 +0700
 tag: [Software Craftsmanship]
 ---
 
-When I was a teenager, I chose to become a software developer because I didn’t like to interact with people. I believed that dealing with machines is far easier than with human beings because human relationships are chaotic and unpredictable. I prefered locking myself in a room, sitting in front of a computer and deeply focusing on tough problems. After a few years working in the software industry, my belief turned out to be dead wrong. I found myself spending more hours a day communicating with people than coding. Even harder, people I am talking to come from diverse backgrounds, competencies and motivations.
+When I was a teenager, I chose to become a software developer because I didn’t like to interact with people. I believed that dealing with machines is far easier than with human beings because human relationships are chaotic and unpredictable. I prefered locking myself in a room, sitting in front of a computer and deeply focusing on tough problems. After a few years working in the software industry, my belief turned out to be dead wrong. I found myself spending more hours a day on communication than coding. Even harder, those I am talking to come from diverse backgrounds, competencies and motivations.
 
 ## Developers versus stakeholders
 
