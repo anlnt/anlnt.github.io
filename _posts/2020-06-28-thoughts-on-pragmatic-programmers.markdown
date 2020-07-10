@@ -17,7 +17,7 @@ They do not accept magic easily. They are passionate to understand how things wo
 They don’t employ a technology just because giant companies are using it. They don’t jump to conclusions without getting the facts. When someone says “That's the way it has to be done”, they smell a challenge.
 
 ## Generalist
-They try hard to be familiar with many technologies, programming languages, frameworks, and development methodologies. They can take any roles in the software development cycle. I am not saying they master all these things. At least, they know who they should look for when they need help.
+They try hard to be familiar with many technologies, programming languages, frameworks, and development methodologies. They can take any roles in the software development life cycle. I am not saying they master all these things. At least, they know who they should look for when they need help.
 
 ## Specialist
 They are a go-to person for several areas in their company. They may be an expert in frontend development, database systems, system performance, or testing. They spend a vast amount of time learning and practicing these skills only because of passion.
