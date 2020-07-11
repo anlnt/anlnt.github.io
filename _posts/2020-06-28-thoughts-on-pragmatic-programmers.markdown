@@ -23,7 +23,7 @@ They try hard to be familiar with many technologies, programming languages, fram
 They are a go-to person for several areas in their company. They may be an expert in frontend development, database systems, system performance, or testing. They spend a vast amount of time learning and practicing these skills only because of passion.
 
 ## Self-learning
-They keep learning by themselves to be relevant to the tech industry. They know how to balance between learning a lot a bit and learning a bit a lot. In other words, they may learn right enough to get the job done but under certain circumstances they learn deeply in order to solve a complicated problem.
+They keep learning by themselves to be relevant to the tech industry. They know how to balance between learning a lot a bit and a bit a lot. In other words, they may learn right enough to get the job done but under certain circumstances they learn deeply in order to solve a complicated problem.
 
 ## Business focus
 At the end of the day, someone pays us to write software, helping their business move forward. A pragmatic programmer does not bury himself in a tomb of cool technologies, without any ideas how business operates out there. Instead, every technical decision they make, they take business constraints into account.
