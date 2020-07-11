@@ -32,7 +32,7 @@ At the end of the day, someone pays us to write software, helping their business
 They are willing to talk to anyone inside and outside their team. They are open to ideas from anyone. They don’t blindly defend themselves. They can ask the right questions. Finally, they are sensitive to any miscommunications that negatively affect their teamwork. 
 
 ## Mentoring
-Everyone starts their career as a junior developer who needs mentoring. There are two mentors who affect my career the most. One taught me how to write code in industry projects. The other taught me communication and thinking processes. In my opinion, experienced developers have a responsibility to level up junior developers.
+Everyone starts their career as a junior developer who needs mentoring. There are two mentors who affect my career the most. One taught me how to write code in industrial projects. The other taught me communication and thinking processes. In my opinion, experienced developers have a responsibility to level up junior developers.
 
 # References
 
