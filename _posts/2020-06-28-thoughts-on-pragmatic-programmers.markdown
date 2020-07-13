@@ -26,7 +26,7 @@ They are a go-to person for several areas in their company. They may be an exper
 They keep learning by themselves to be relevant to the tech industry. They know how to balance between learning a lot a bit and a bit a lot. In other words, they may learn right enough to get the job done but under certain circumstances they learn deeply in order to solve a complicated problem.
 
 ## Business focus
-At the end of the day, someone pays us to write software, helping their business move forward. A pragmatic programmer does not bury himself in a tomb of cool technologies, without any ideas how business operates out there. Instead, every technical decision they make, they take business constraints into account. People having this mindset understand the big picture of their work, beyond specific tasks in a production line.
+At the end of the day, someone pays us to write software, helping their business move forward. A pragmatic programmer does not bury himself in a tomb of cool technologies, being unaware of how business operates out there. Instead, with every technical decision they make, they take business constraints into account. Those who have this mindset grasp the big picture of their work, knowing that it is beyond completing tasks and calling it a day.
 
 ## Communication
 They are willing to talk to anyone inside and outside their team. They are open to ideas from anyone. They don’t blindly defend themselves. They can ask the right questions. Finally, they are sensitive to any miscommunications that negatively affect teamwork. 
