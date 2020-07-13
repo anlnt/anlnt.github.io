@@ -14,7 +14,7 @@ Regardless of how tough the situation they are put into, they eventually figure 
 They do not accept magic easily. They are passionate to understand how things work under the hood. To them, complex systems comprise of many basic blocks which are built using knowledge regarding operating systems, networking, programming languages, databases, and cryptography. Thanks to this knowledge, they can grasp anything new quickly and survive any tough situations they have not been put into before.
 
 ## Critical thinking
-They don’t employ a technology just because giant companies are using it. They don’t jump to conclusions without getting the facts. When someone says “That's the way it has to be done”, they smell a challenge.
+They don’t employ a technology just because giant companies like Google or Facebook are using it. They don’t jump to conclusions without getting the facts. When someone says “That's the way it has to be done”, they smell a challenge.
 
 ## Generalist
 They try hard to be familiar with many technologies, programming languages, frameworks, and development methodologies. They can take any roles in the software development life cycle. I am not saying they master all these things. At least, they know who they should look for when they need help.
