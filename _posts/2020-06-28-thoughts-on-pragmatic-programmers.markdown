@@ -29,7 +29,7 @@ They keep learning by themselves to be relevant to the tech industry. They know 
 At the end of the day, someone pays us to write software, helping their business move forward. A pragmatic programmer does not bury himself in a tomb of cool technologies, without any ideas how business operates out there. Instead, every technical decision they make, they take business constraints into account.
 
 ## Communication
-They are willing to talk to anyone inside and outside their team. They are open to ideas from anyone. They don’t blindly defend themselves. They can ask the right questions. Finally, they are sensitive to any miscommunications that negatively affect their teamwork. 
+They are willing to talk to anyone inside and outside their team. They are open to ideas from anyone. They don’t blindly defend themselves. They can ask the right questions. Finally, they are sensitive to any miscommunications that negatively affect teamwork. 
 
 ## Mentoring
 Everyone starts their career as a junior developer who needs mentoring. There are two mentors who affect my career the most. One taught me how to write code in industrial projects. The other taught me communication and thinking in software. In my opinion, experienced developers have a responsibility to level up junior developers.
