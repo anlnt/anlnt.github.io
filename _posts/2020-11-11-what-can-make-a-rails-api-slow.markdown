@@ -6,7 +6,7 @@ tag: [Ruby, System Performance]
 ---
 
 If you have been a web developer for more than two or three years, you may experience several performance issues in your web applications. Specifically, users complain that a page takes ages to show up or some features suddenly stop working because the infrastructure runs out of resources. Some fun facts I find regarding performance issues as follows:
-- Some existing performance issues suddenly become urgent because of who reports the issues
+- Some existing performance issues suddenly become urgent because of the person who reported them
 - Performance issues can originate from anywhere, usually the areas of the system which can be considered as the unknown unknowns to us. We tend to blame unrelated things and follow the wrong directions
 - Performance issues may be caused by complex user behavior in production environment combined with several issues which we think minor when analyzed in isolation
 - Some performance issues cannot be fixed other than rewriting a certain module, due to architectural decisions made earlier
