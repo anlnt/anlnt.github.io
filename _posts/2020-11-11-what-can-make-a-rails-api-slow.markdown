@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What can make an Rails API slow"
+title:  "What can make a Rails API slow"
 date:   2020-11-11 07:24:24 +0700
 tag: [Ruby, System Performance]
 ---
