@@ -10,6 +10,7 @@ If you have been a web developer for more than two or three years, you may exper
 - Performance issues can originate from anywhere, usually the areas of the system which can be considered as the unknown unknowns to us. We tend to blame unrelated things and follow the wrong directions
 - Performance issues may be caused by complex user behavior in production environment combined with several issues which we think minor when analyzed in isolation
 - Some performance issues cannot be fixed other than rewriting a certain module, due to architectural decisions made earlier
+
 I am going to summarize several common causes of performance issues I encounter over the course working as a Ruby on Rails developer for five years.
 
 ## I/O activities
