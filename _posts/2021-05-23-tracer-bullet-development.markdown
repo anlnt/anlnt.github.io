@@ -29,7 +29,7 @@ Because we deliver code frequently, our pull requests are small, easy to review 
 
 **We always have a demonstrable product**
 
-Business people are investing in us to build their products. They are always excited to see if we are progressing. However, they are not much interested in how many lines of codes we have written. What they want to see is a working feature. It can be something immature but the point is they see some visible progress toward their products.
+Business people are investing in us to build their products. They are always excited to see if we are progressing. However, they are not much interested in how many lines of codes we have written. What they want to see is a working feature. It can be something immature but the point is that they see some visible progress toward their products.
 
 
 # References
